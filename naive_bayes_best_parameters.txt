@@ -1,0 +1,1 @@
+{'max_features': None, 'ngram_range': (1, 2), 'alpha': 0.5, 'smooth_df': True, 'max_df': 0.25, 'norm': 'l1'}
